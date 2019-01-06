@@ -23,6 +23,7 @@ Kumpulan tugas liburan tahun baru 2019 Hacktiv8.
 * [Rocket](https://github.com/vyonizr/h8-ny-2019/blob/master/Exercise3/rocket.js)
 
 ## Exercise4
+* [001](https://github.com/vyonizr/h8-ny-2019/blob/master/Exercise4/001.js)
 * [002](https://github.com/vyonizr/h8-ny-2019/blob/master/Exercise4/002.js)
 * [003](https://github.com/vyonizr/h8-ny-2019/blob/master/Exercise4/003.js)
 * [Rocket](https://github.com/vyonizr/h8-ny-2019/blob/master/Exercise4/rocket.js)
